@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("../backgrounds/basement.jpg");
+    background-size: cover;
+}
+
+.babis{
+    align-items: center;
+    height: 500px;
+    margin-left: 500px;
+}
+
+.textplace{
+    background-color: rgb(149, 57, 235, 0.8);
+    height: 217px;
+    width: vm;
+}
+
+.chat{
+    padding: 30px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+a{
+    font-size: 50px;
+    text-decoration: none;
+    transition: transform 0.2s;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+.links{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    gap: 100px;
+    padding-top: 80px;
+}
+
+a:hover{
+    transform: scale(1.15);
+}
