@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url("../backgrounds/tennis.jpg");
+    background-image: url("./backgrounds/tennis.jpg");
     background-size: cover;
 }
 

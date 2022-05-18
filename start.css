@@ -16,7 +16,7 @@
 }
 
 body{
-    background-image: url("../backgrounds/maintalk.jpg");
+    background-image: url("./backgrounds/maintalk.jpg");
     background-size: cover;
 }
 

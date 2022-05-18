@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url("../backgrounds/rolex.jpg");
+    background-image: url("./backgrounds/rolex.jpg");
     background-size: cover;
 }
 

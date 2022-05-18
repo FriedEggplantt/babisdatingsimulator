@@ -5,7 +5,7 @@ const textEl = [
   "*YOU TAKE A DEEP BREATH BEFORE SAYING:*",
   "YOU: Yes Babis, I will go out with you!",
   "BABIS: Oh my god! :,)",
-  "*YOU AND BABIS MAKEOUT*",
+  "*YOU AND BABIS HUG FOR 4 MINUTES*",
   "BABIS: You're amazing, I can't wait to start a family of 40 with you..",
   "YOU: Me too Babis, me too.. :,)",
 "*YOU AND BABIS LIVE HAPPILY EVER AFTER*",
